@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singharpitt" alt="singharpitt" /></a> </p>
 
-- 🌱 I’m currently learning **Arduino Raspberry Pie**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/singharpitt](https://github.com/singharpitt)
 
-- 💬 Ask me about **HTML, Java, C++, ROS**
+- 💬 Ask me about **Java , Python .**
 
 - 📫 How to reach me **arpit.singh.prj@gmail.com**
-
-- ⚡ Fun fact **You can't breathe and swallow simultaneously.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
