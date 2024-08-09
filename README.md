@@ -101,6 +101,12 @@
         <img src="https://github-profile-trophy.vercel.app/?username=singharpitt" alt="singharpitt" />
     </a>
 </p>
+<!-- GitHub Streak -->
+<p align="center">
+  <a href="https://github.com/singharpitt/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=singharpitt&theme=monokai&hide_border=true"/>
+  </a>
+</p>
 
 ---
 
