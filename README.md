@@ -105,11 +105,17 @@
 ---
 
 <div align="center">
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singharpitt&theme=monokai)
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singharpitt&theme=monokai) 
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singharpitt&theme=monokai)
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=singharpitt&theme=monokai) 
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singharpitt&theme=monokai&utcOffset=6)  
+  
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singharpitt&theme=monokai)
+  
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singharpitt&theme=monokai)
+  
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singharpitt&theme=monokai)
+  
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=singharpitt&theme=monokai)
+  
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singharpitt&theme=monokai&utcOffset=6)  
+
 </div>
 
 <img src="https://github.com/punitkmryh/punitkmryh/raw/master/wave.svg" style="max-width: 100%;">
