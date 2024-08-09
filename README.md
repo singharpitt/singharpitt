@@ -96,11 +96,13 @@
 
 ---
 
+<div align="center">
+
+<!-- GitHub Contributions per Year -->
 <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=singharpitt" alt="singharpitt" />
-    </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singharpitt&theme=monokai"/>
 </p>
+
 <!-- GitHub Streak -->
 <p align="center">
   <a href="https://github.com/singharpitt/github-readme-streak-stats">
@@ -108,19 +110,21 @@
   </a>
 </p>
 
----
-
-<div align="center">
-  
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singharpitt&theme=monokai)
-  
-![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singharpitt&theme=monokai)
-  
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singharpitt&theme=monokai)
-  
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=singharpitt&theme=monokai)
-  
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singharpitt&theme=monokai&utcOffset=6)  
+<table><tr>
+<td valign="top" width="50%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singharpitt&theme=monokai" alt="Repos per Language" />
+</td>
+<td valign="top" width="50%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singharpitt&theme=monokai" alt="Most Commit Language" />
+</td>
+</tr><tr>
+<td valign="top" width="50%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=singharpitt&theme=monokai" alt="Stats" />
+</td>
+<td valign="top" width="50%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singharpitt&theme=monokai&utcOffset=6" alt="Productive Time" />
+</td>
+</tr></table>
 
 </div>
 
