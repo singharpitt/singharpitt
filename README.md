@@ -1,131 +1,244 @@
+<!--  ─────────────────────────────────────────────────────────────  -->
+<!--  HERO BANNER — animated dark glow                                -->
+<!--  ─────────────────────────────────────────────────────────────  -->
+
+<a href="https://github.com/singharpitt">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0F172A&height=260&section=header&text=Arpit%20Singh&fontSize=85&fontColor=F8FAFC&fontAlignY=38&desc=Machine%20Learning%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Robotics&descSize=20&descAlignY=60&animation=fadeIn&fontAlign=50" alt="hero banner" />
+</a>
+
+<!--  ─────────────────────────────────────────────────────────────  -->
+<!--  TYPING ANIMATION                                                -->
+<!--  ─────────────────────────────────────────────────────────────  -->
+
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 75%" />
+
+<a href="https://github.com/singharpitt">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=50&lines=%24+whoami;%E2%9A%A1+CS+student+from+India;%F0%9F%A4%96+I+train+models+and+build+robots;%F0%9F%9A%80+Always+shipping%2C+always+learning" alt="typing" />
+</a>
+
+<br />
+
+<a href="mailto:arpit.singh.prj@gmail.com">
+  <img src="https://img.shields.io/badge/-arpit.singh.prj@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0F172A" />
+</a>
+<a href="https://github.com/singharpitt">
+  <img src="https://img.shields.io/badge/-@singharpitt-181717?style=flat-square&logo=github&logoColor=white&labelColor=0F172A" />
+</a>
+<a href="https://instagram.com/singharpitt">
+  <img src="https://img.shields.io/badge/-@singharpitt-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0F172A" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=singharpitt&style=flat-square&color=22D3EE&labelColor=0F172A&label=PROFILE+VIEWS" />
+
 </div>
 
-<h1 align="center">Hi 👋, I'm Arpit Singh</h1>
-<h3 align="center">I'm a learning contributor to open source, including robotics.</h3>
+<br />
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=singharpitt&label=Profile%20views&color=0e75b6&style=flat" alt="singharpitt" />
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=singharpitt" alt="singharpitt" />
-    </a>
-</p>
+<!--  ─────────────────────────────────────────────────────────────  -->
+<!--  ABOUT — clean, with image                                       -->
+<!--  ─────────────────────────────────────────────────────────────  -->
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Tarikul-Islam-Anik/main/assets/Rocket.png" />
+  <img align="left" alt="rocket" width="36" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Tarikul-Islam-Anik/main/assets/Rocket.png" />
+</picture>
 
-## 🚀 About Me
+## &nbsp; About me
 
-<table><tr><td valign="top" width="50%">
+<table>
+<tr>
+<td width="60%" valign="top">
 
-- 🌱 I’m currently learning **Machine Learning**
+<br />
 
-- 👨‍💻 All of my projects are available at [my GitHub](https://github.com/singharpitt)
+I'm a CS student in India. I got into code through robotics — wiring up motors, fighting with ROS — and that opened the door to everything else. Now I split my time between training computer vision models and building full-stack apps to wrap them in.
 
-- 💬 Ask me about **Java, Python**
+The short version: **I like making things that work in the real world.** A robot that drives itself, a model that sorts trash, a CLI that someone could actually use. The stuff in between research papers and shipped products is where I want to live.
 
-- 📫 How to reach me: **arpit.singh.prj@gmail.com**
+```yaml
+🌍  location:    India
+🎯  focus:       Computer Vision · Full-Stack
+📚  learning:    Deep Learning · MLOps · System Design
+🛠️  building:    Robots, models, anything that ships
+📫  reach:       arpit.singh.prj@gmail.com
+```
 
-- ⚡ Fun Fact: **I belong to the warrior in whom the old ways have joined the new.**
+</td>
+<td width="40%" valign="top">
 
-</td><td valign="top" width="50%">
+<br />
 
-<div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
-</div></td></tr></table>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="coding gif" />
 
----
+</td>
+</tr>
+</table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://instagram.com/singharpitt" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="singharpitt" height="30" width="40" />
-    </a>
-</p>
+<br />
 
----
+<!--  DIVIDER  -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:8B5CF6,100:EC4899&height=2" width="100%" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-    </a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-</p>
+<br />
 
----
+<!--  ─────────────────────────────────────────────────────────────  -->
+<!--  FEATURED PROJECTS — neon card grid                             -->
+<!--  ─────────────────────────────────────────────────────────────  -->
 
-<div align="center">
+## &nbsp;🛸 &nbsp; Featured projects
 
-<!-- GitHub Contributions per Year -->
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singharpitt&theme=monokai"/>
-</p>
-
-<!-- GitHub Streak -->
-<p align="center">
-  <a href="https://github.com/singharpitt/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=singharpitt&theme=monokai&hide_border=true"/>
+<table>
+<tr>
+<td width="50%">
+  <a href="https://github.com/singharpitt/Custom_differential_machine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=singharpitt&repo=Custom_differential_machine&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=EC4899&text_color=94A3B8" />
   </a>
-</p>
+</td>
+<td width="50%">
+  <a href="https://github.com/singharpitt/Waste_segregation_machine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=singharpitt&repo=Waste_segregation_machine&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=EC4899&text_color=94A3B8" />
+  </a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <a href="https://github.com/singharpitt/Face_recognition_model">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=singharpitt&repo=Face_recognition_model&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=EC4899&text_color=94A3B8" />
+  </a>
+</td>
+<td width="50%">
+  <a href="https://github.com/singharpitt/CarRental_CLI_Using_OOPS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=singharpitt&repo=CarRental_CLI_Using_OOPS&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=EC4899&text_color=94A3B8" />
+  </a>
+</td>
+</tr>
+</table>
 
-<table><tr>
-<td valign="top" width="50%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singharpitt&theme=monokai" alt="Repos per Language" />
-</td>
-<td valign="top" width="50%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singharpitt&theme=monokai" alt="Most Commit Language" />
-</td>
-</tr><tr>
-<td valign="top" width="50%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=singharpitt&theme=monokai" alt="Stats" />
-</td>
-<td valign="top" width="50%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singharpitt&theme=monokai&utcOffset=6" alt="Productive Time" />
-</td>
-</tr></table>
+<details>
+<summary><b>📖 &nbsp; What each one is, in plain English</b></summary>
+<br />
+
+| Project | What it does |
+|---|---|
+| **🤖 Custom Differential Machine** | A two-wheel ROS robot. Built the URDF, simulation, and motion control end-to-end. |
+| **♻️ Waste Segregation CNN** | A CNN that sorts waste into recycling categories. Trained in Jupyter, dataset was the hard part. |
+| **👁️ Face Recognition Model** | Real-time face recognition from a webcam feed. Captures, trains, identifies — live. |
+| **🚗 Car Rental CLI** | Java CLI rental system. Built it to drill OOP — encapsulation, inheritance, polymorphism. |
+
+</details>
+
+<br />
+
+<!--  DIVIDER  -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:8B5CF6,100:EC4899&height=2" width="100%" />
+
+<br />
+
+<!--  ─────────────────────────────────────────────────────────────  -->
+<!--  TECH STACK — skill icons (the modern look)                     -->
+<!--  ─────────────────────────────────────────────────────────────  -->
+
+## &nbsp;⚡ &nbsp; Tech stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,js,cpp,c&theme=dark" />
+
+**Machine learning & data**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn,jupyter&theme=dark" />
+
+**Backend & frontend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,react,mysql,django&theme=dark" />
+
+**Tools & systems**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,arduino&theme=dark" />
 
 </div>
 
-<img src="https://github.com/punitkmryh/punitkmryh/raw/master/wave.svg" style="max-width: 100%;">
+<br />
+
+<!--  DIVIDER  -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:8B5CF6,100:EC4899&height=2" width="100%" />
+
+<br />
+
+<!--  ─────────────────────────────────────────────────────────────  -->
+<!--  STATS — neon, side by side                                     -->
+<!--  ─────────────────────────────────────────────────────────────  -->
+
+## &nbsp;📊 &nbsp; The numbers
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=singharpitt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=EC4899&text_color=94A3B8&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singharpitt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=94A3B8&langs_count=8" />
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com?user=singharpitt&theme=tokyonight&hide_border=true&background=0F172A&stroke=22D3EE&ring=EC4899&fire=8B5CF6&currStreakLabel=22D3EE" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=singharpitt&theme=tokyo-night&bg_color=0F172A&color=22D3EE&line=8B5CF6&point=EC4899&hide_border=true&area=true&radius=8" width="100%" />
+
+<br /><br />
+
+<!--  Snake animation — only works after setting up the GitHub Action below  -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/singharpitt/singharpitt/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/singharpitt/singharpitt/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/singharpitt/singharpitt/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<br />
+
+<!--  DIVIDER  -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:8B5CF6,100:EC4899&height=2" width="100%" />
+
+<br />
+
+<!--  ─────────────────────────────────────────────────────────────  -->
+<!--  CURRENTLY                                                      -->
+<!--  ─────────────────────────────────────────────────────────────  -->
+
+## &nbsp;🚀 &nbsp; Currently
+
+```diff
++ Going deep on ML fundamentals — the math, not just the libraries
++ Shipping one project end-to-end with a real frontend and deployment
++ Figuring out whether I want to go research or product
+- Spending less time on tutorials I never apply
+```
+
+<br />
+
+<!--  DIVIDER  -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:8B5CF6,100:EC4899&height=2" width="100%" />
+
+<br />
+
+<!--  ─────────────────────────────────────────────────────────────  -->
+<!--  QUOTE                                                          -->
+<!--  ─────────────────────────────────────────────────────────────  -->
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br /><br />
+
+<sub>💬 &nbsp; Open to internships, collabs, and conversations about ML, robots, or weird side projects.</sub>
+
+</div>
+
+<!--  ─────────────────────────────────────────────────────────────  -->
+<!--  FOOTER                                                         -->
+<!--  ─────────────────────────────────────────────────────────────  -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0F172A&height=120&section=footer" />
