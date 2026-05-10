@@ -12,10 +12,6 @@
 
 <div align="center">
 
-<a href="https://github.com/singharpitt">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=50&lines=%24+whoami;%E2%9A%A1+CS+student+from+India;%F0%9F%A4%96+I+train+models+and+build+robots;%F0%9F%9A%80+Always+shipping%2C+always+learning" alt="typing" />
-</a>
-
 <br />
 
 <a href="mailto:arpit.singh.prj@gmail.com">
